@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9af695e-b68c-478f-919b-8a1351cb4234" name="Changes" comment="" />
+    <list default="true" id="a9af695e-b68c-478f-919b-8a1351cb4234" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/PalindromeCheckerApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PalindromeCheckerApp.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.PalindromeCheckerApp.executor": "Run",
+    "Application.UseCase5PalindromeCheckerApp.executor": "Run",
     "Application.UseCase6PalindromeCheckerApp.executor": "Run",
     "Application.UseCase7PalindromeCheckerApp.executor": "Run",
     "Application.UseCase8PalindromeCheckerApp.executor": "Run",
@@ -42,7 +45,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "feature/UC10",
+    "git-widget-placeholder": "feature/UC11",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/ideaJ/PalindromeCheckerApp/src/Main.java",
     "vue.rearranger.settings.migration": "true"
